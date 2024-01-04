@@ -7,3 +7,5 @@ communicates with the console application using inputsimulator to send commands.
 To connect to your Call of Duty server, fill in the IP, PORT, and rcon password fields. 
 Afterward, you can send commands to your server by entering them into the 
 command field and pressing send.
+
+Youtube: https://youtu.be/XV-BDxAQsnE
