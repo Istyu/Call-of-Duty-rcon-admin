@@ -1,0 +1,10 @@
+﻿  cod4RconProgramC.cpp
+C:\Users\Balogh István\source\cod4RconProgramC\cod4RconProgramC\cod4RconProgramC.cpp(135,14): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\Balogh István\source\cod4RconProgramC\cod4RconProgramC\cod4RconProgramC.cpp(135,14): message : this argument is used as a buffer size
+C:\Users\Balogh István\source\cod4RconProgramC\cod4RconProgramC\cod4RconProgramC.cpp(163,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\Balogh István\source\cod4RconProgramC\cod4RconProgramC\cod4RconProgramC.cpp(163,13): message : this argument is used as a buffer size
+C:\Users\Balogh István\source\cod4RconProgramC\cod4RconProgramC\cod4RconProgramC.cpp(179,17): warning C4477: 'scanf_s' : format string '%[^\n]' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\Balogh István\source\cod4RconProgramC\cod4RconProgramC\cod4RconProgramC.cpp(179,17): message : this argument is used as a buffer size
+C:\Users\Balogh István\source\cod4RconProgramC\cod4RconProgramC\cod4RconProgramC.cpp(196,17): warning C4477: 'scanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\Balogh István\source\cod4RconProgramC\cod4RconProgramC\cod4RconProgramC.cpp(196,17): message : this argument is used as a buffer size
+  cod4RconProgramC.vcxproj -> C:\Users\Balogh István\source\cod4RconProgramC\x64\Debug\cod4RconProgramC.exe
